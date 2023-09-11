@@ -69,3 +69,5 @@ int  main() {
 2.修改了重复写入的问题
 3.修改了平局判定条件不清晰的问题
 4.更新注释
+
+all problems have been solved.
