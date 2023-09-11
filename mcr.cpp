@@ -64,3 +64,8 @@ int  main() {
 	std::cout << game[2][0] << "\t" << game[2][1] << "\t" << game[2][2] << std::endl;
 	return 1;
 }
+ # new version
+1.修改了输入无限制的问题
+2.修改了重复写入的问题
+3.修改了平局判定条件不清晰的问题
+4.更新注释
